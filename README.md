@@ -1,2 +1,2 @@
-# Quick-fix
-Fixing problem and bugs 8.03.4
+# Quick-fix second phase
+Fixing problem and bugs 8.03.05
